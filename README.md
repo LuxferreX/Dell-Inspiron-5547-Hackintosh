@@ -12,9 +12,12 @@ Dell Inspiron 5547 Hackintosh
 2.适配macOS版本 12.6.2（测试通过）
 
 3.安装注意事项
+  
   a.BIOS内开启Intel虚拟化，关闭安全启动，关闭CSM
+  
   b.已有三码，自行更换新的三码
   
+
 4.不定期分享一些EFI，欢迎打赏
 
   ![微信图片_20230202090706](https://user-images.githubusercontent.com/30519088/216206195-a3574e99-f38c-4217-b409-7d823727efcc.jpg)
